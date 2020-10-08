@@ -1,1 +1,1 @@
-# Learning-Python
+Learning Pytgon from Scratch.
