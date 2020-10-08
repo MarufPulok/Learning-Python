@@ -1,1 +1,1 @@
-Learning Pytgon from Scratch.
+Learning Python from Scratch.
